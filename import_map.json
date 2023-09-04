@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/tavano-vtex/": "./",
+
     "$store/": "./",
     "deco-sites/storefront/": "./",
     "apps/": "https://denopkg.com/deco-cx/apps@0.3.1/",
